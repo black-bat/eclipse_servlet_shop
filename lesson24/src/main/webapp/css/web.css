@@ -1,0 +1,64 @@
+.card-header{
+    background-color: darkgreen;
+}
+.col{
+    margin: 15px;
+    max-width: 450px;
+    min-width: 200px;
+}
+
+#button-1{
+    background-color: rgba(240, 224, 4, 0.952);
+    color: black;
+}
+
+#button-2{
+    background-color: darkgreen;
+}
+
+#fresh{
+    color:  rgb(255, 187, 16);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#b-point{
+    color: darkgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 5px;
+}
+
+#name-product{
+    color: darkgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 2px;
+}
+
+#cart_table{
+	margin:0 auto;
+	text-align: center;
+	width:900px;
+}
+#order_table{
+	margin:0 auto;
+	text-align: center;
+	width:1000px;
+}
+#orderButton,#back{
+	margin-top:15px;
+	margin-left:48%;
+	
+	text-align: center;
+	background-color: darkgreen;
+	max-width: 200px;
+}
+
+#back{
+	margin-top:15px;
+	margin-left:45%;
+	
+	text-align: center;
+	background-color: darkgreen;
+	max-width: 200px;
+}
